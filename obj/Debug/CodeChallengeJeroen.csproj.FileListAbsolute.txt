@@ -1,0 +1,13 @@
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\bin\Debug\CodeChallengeJeroen.exe.config
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\bin\Debug\CodeChallengeJeroen.exe
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\bin\Debug\CodeChallengeJeroen.pdb
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\obj\Debug\CodeChallengeJeroen.csprojAssemblyReference.cache
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\obj\Debug\CodeChallengeJeroen.Properties.Resources.resources
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\obj\Debug\CodeChallengeJeroen.csproj.GenerateResource.cache
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\obj\Debug\CodeChallengeJeroen.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\obj\Debug\CodeChallengeJeroen.exe
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\obj\Debug\CodeChallengeJeroen.pdb
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\obj\Debug\CodeChallengeJeroen.Forms.BackgroundForm.resources
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\obj\Debug\CodeChallengeJeroen.MainForm.resources
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\obj\Debug\CodeChallengeJeroen.Forms.QuestionForm.resources
+C:\Users\Benjamin Eindhoven\source\repos\CodeChallengeJeroen\CodeChallengeJeroen\obj\Debug\CodeChallengeJeroen.Forms.ResultForm.resources
